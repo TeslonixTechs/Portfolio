@@ -12,27 +12,43 @@ import reactOpenai from '../assets/react-openai.png'
 const projects = [
     {
         id: 1,
-        title: 'Snake Amazon',
-        image: snakeAmazon,
-        stacks: 'Pure HTML, CSS and Vanilla JS',
-        description: 'A classic arcade-style game where you guide a snake through a grid, eating apples to grow longer while avoiding collisions. Simple and challenging, it revives the timeless joy of classic games.',
-        link: 'https://wdp-12.github.io/Finalproject1_Kelompok1/',
+        title: 'Convo Connect',
+        image: reactOpenai,
+        stacks: 'React Native and Node JS',
+        description: "Convo Connect is a fast, secure, and easy-to-use messaging app designed to keep you connected with friends, family, and colleagues. Share messages, photos, videos, and files with end-to-end encryption. Create groups, send voice messages, and make voice and video calls.",
+        link: 'https://openai.hamdanzull.my.id'
     },
     {
         id: 2,
-        title: 'Amikom Kantin',
-        image: amikomKantin,
-        stacks: 'PHP, CSS, JavaScript & MySQL',
-        description: "Amikom Kantin represents the culmination of my semester's final project—a user-friendly web app streamlining cafeteria interactions, from menu exploration to online ordering and payments.",
-        link: '/'
+        title: 'Emote',
+        image: reactOpenai,
+        stacks: 'React Native Node js',
+        description: "Emote is a vibrant social media platform where you can share your life, connect with others, and discover new interests. Post photos, videos, stories, and live streams.",
+        link: "https://github.com/Sam-spec-ops/camera_app.git"
     },
     {
         id: 3,
-        title: 'React OpenAI',
+        title: 'Emote',
         image: reactOpenai,
-        stacks: 'React & Tailwind CSS',
-        description: "This project marks my introduction to React as I develop a chatbot application to interact with OpenAI. It represents my first step in mastering React and enhancing my programming skills.",
-        link: 'https://openai.hamdanzull.my.id'
+        stacks: 'React Native Node js',
+        description: "Emote is a vibrant social media platform where you can share your life, connect with others, and discover new interests. Post photos, videos, stories, and live streams.",
+        link: "https://github.com/Sam-spec-ops/camera_app.git"
+    },
+    {
+        id: 4,
+        title: 'Emote',
+        image: reactOpenai,
+        stacks: 'React Native Node js',
+        description: "Emote is a vibrant social media platform where you can share your life, connect with others, and discover new interests. Post photos, videos, stories, and live streams.",
+        link: "https://github.com/Sam-spec-ops/camera_app.git"
+    },
+    {
+        id: 5,
+        title: 'Emote',
+        image: reactOpenai,
+        stacks: 'React Native Node js',
+        description: "Emote is a vibrant social media platform where you can share your life, connect with others, and discover new interests. Post photos, videos, stories, and live streams.",
+        link: "https://github.com/Sam-spec-ops/camera_app.git"
     }
 ]
 
